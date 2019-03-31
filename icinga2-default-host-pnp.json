@@ -12,12 +12,12 @@
       }
     ]
   },
-  "description": "Show all metrics from a Icinga2 main hostservice",
+  "description": "Show all metrics from a Icinga2 main host check",
   "editable": true,
   "gnetId": null,
   "graphTooltip": 0,
   "id": 7,
-  "iteration": 1554043663405,
+  "iteration": 1554045897540,
   "links": [],
   "panels": [
     {
@@ -212,7 +212,7 @@
     ]
   },
   "timezone": "browser",
-  "title": "icinga2-default-hostalive-pnp",
+  "title": "icinga2-default-host-pnp",
   "uid": "6lScu5eik",
-  "version": 3
+  "version": 4
 }
